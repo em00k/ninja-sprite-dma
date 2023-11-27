@@ -1,6 +1,8 @@
 # ninja-sprite-dma
  Example of DMA'ing sprites with NBP
 
+All code (c) em00k - do not use without persmission. 
+
 Please NOTE the assets ARE NOT TO BE USED!! You cannot reuse any assets 
 that are included and only here for example purposes. 
 
