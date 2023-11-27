@@ -4,7 +4,7 @@
 All code (c) em00k - do not use without persmission. 
 
 Please NOTE the assets ARE NOT TO BE USED!! You cannot reuse any assets 
-that are included and only here for example purposes. 
+that are included and only here for example purposes. The code is NOT polished!
 
 This will only build with NextBuildPro which is not yet released (the beta version will not support the code)
 
