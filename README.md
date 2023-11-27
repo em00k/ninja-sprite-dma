@@ -24,3 +24,5 @@ There is also a nextlib_ints_ctc2.bas which is not included for this example whi
 
 To run this example copy the files from release to your Next and run Sample.NEX
 
+Example video : https://www.youtube.com/watch?v=2SisC9-zurk
+
